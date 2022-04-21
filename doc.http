@@ -1,0 +1,14 @@
+# POST http://127.0.0.1:8000/api/login/
+# Content-Type: application/json
+
+# {
+    
+#     "email": "json@json.com",
+#     "password": "jsonjson"
+#  }
+
+
+
+GET http://127.0.0.1:8000/api/locations/
+Content-Type: application/json
+Authorization:  Token 645f73facc18ef9b2b9d6b5c47b001fbc4f800bf
